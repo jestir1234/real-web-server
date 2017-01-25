@@ -5,7 +5,7 @@ A Real Web Server and Browser (from the command line)
 Utilize command line to simulate HTTP GET and POST requests, sending data from client to the server. 
 #####To Run:
 ```
-cd to real-web-server 
+cd to real-web-server/
 ```
 
 Set up the server in one terminal window:
